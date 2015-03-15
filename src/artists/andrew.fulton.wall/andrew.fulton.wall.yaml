@@ -1,0 +1,43 @@
+name: Andrew Fulton
+title: "Down By The Water Was A Wall"
+background:
+  size: auto
+  repeat: repeat
+formats:
+  -
+    format_type: pdf
+    format_link: andrew.fulton.water.wall.pdf
+  -
+    format_type: cbz
+    format_link: andrew.fulton.water.wall.cbz
+  -
+    format_type: epub
+    format_link: andrew.fulton.water.wall.epub
+  -
+    format_type: kindle
+    format_link: andrew.fulton.water.wall.mobi
+description: |
+  ##_Down By The Water Was A Wall,_ by Andrew Fulton
+  A creation myth of sorts, a bittersweet tale of lust and destruction drawn in wonky wavy lines and two different kinds of dot.  
+
+  _This comic contains a couple of sex parts so might not be safe for work depending on your work_
+  
+  > ...but it's clear that he's talented and has deeper ideas lurking under this veneer of silliness.  
+  > - [Rob Clough](http://highlowcomics.blogspot.com.au/2013/04/small-comics-by-andrew-fulton.html)
+
+  Andrew draws short wordless comic stories for his website [mumblier.com](http://mumblier.com). His drawings have appeared in various local and international anthologies, although on reflection that's a fairly meaningless thing to say.  He uses a dip pen - mostly a g-nib, if you're the kind of person who asks that kind of thing.
+
+  He also organises the Minicomic of the Month Club subscription series, which you should totally subscribe to when it becomes available next year.
+further: |
+  Andrew posts comics at [mumblier.com](http://mumblier.com "Comics and Stories at mumblier.com"), and is on [twitter](http://twitter.com/andrewfulton "Follow Andrew Fulton on Twitter") and [instagram](http://instagram.com/andrewfulton "Follow Andrew Fulton on Instagram")
+links:
+  - 
+    title: DRAX
+    description: "Vampyre Anthology featuring comics by Andrew Fulton, Arran Mckenna and Ive Sorocuk"
+    link: http://smallercomics.com/projects/drax
+    image: drax1.jpg
+  - 
+    title: We'm
+    description: "Sci-fi space-clone identity crisis?"
+    link: http://shop.smallercomics.com/products/525143-wem
+    image: wem.jpg    

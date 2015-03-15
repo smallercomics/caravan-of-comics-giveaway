@@ -1,0 +1,43 @@
+name: Meg O'Shea
+slug: meg.oshea
+title: "The Wolves of King Street"
+background:
+  size: auto
+  repeat: repeat
+formats:
+  -
+    format_type: pdf
+    format_link: The.Wolves.Of.King.St.Meg.OShea.pdf
+  -
+    format_type: cbz
+    format_link: The.Wolves.Of.King.St.Meg.OShea.cbz
+  -
+    format_type: epub
+    format_link: The.Wolves.Of.King.St.Meg.OShea.epub
+  -
+    format_type: kindle
+    format_link: The.Wolves.Of.King.St.Meg.OShea.mobi
+description: |
+  ##_The Wolves of King Street_, by Meg O'Shea
+  _The Wolves of King Street_ is a story of an intoxicated night out with anthropomorphic wolves. 
+  
+  It was made in 2014 as part of a class taught by Pat Grant, and might one day even be in colour.
+
+  Meg is a Sydney-dwelling animation student who has been known to make comics in the past, but would now like to make even more.
+further: |
+  Meg puts work on [Tumblr](http://pleaseusethisbag.tumblr.com/) and occasionally posts embarrassing things on [Twitter](https://twitter.com/pupukachu). 
+links:
+  - 
+    title: Eshayz Noir
+    description: "An old, dumb comic that began as an in-joke, adding to a classy oeuvre full of potty mouth and antisocial behaviour."
+    link: http://pleaseusethisbag.tumblr.com/post/58243131432/a-friend-of-mine-done-gone-fucked-everyone-over
+    image: fr1.jpg
+  - 
+    title: Explore a Tropical Forest Pop Up Book
+    description: "A seriously good pop up book."
+    link: http://www.amazon.com/Explore-Tropical-Forest-Pop-up-Book/dp/0870447572
+    image: fr2.jpg
+sponsor:
+  image: ad.png
+  link: http://yahoo.com
+  text: Yahoo!

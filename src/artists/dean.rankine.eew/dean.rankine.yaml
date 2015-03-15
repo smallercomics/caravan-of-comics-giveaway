@@ -1,0 +1,30 @@
+name: Dean Rankine
+slug: dean.rankine
+title: "Eew! #1"
+background:
+  size: cover
+  repeat: no-repeat
+formats:
+  -
+    format_type: pdf
+    format_link: Dean-Rankine-Eew.pdf
+  -
+    format_type: cbz
+    format_link: Dean-Rankine-Eew.cbz
+  -
+    format_type: epub
+    format_link: Dean-Rankine-Eew.epub
+  - 
+    format_type: kindle
+    format_link: Dean-Rankine-Eew.mobi
+description: |
+  ##_Eew! #1_
+  Eew! is a collection of Dean Rankine’s more disturbing comics that are disturbing. 
+further: |
+  More of Dean’s work can be found here - [www.deanrankine.deviantart.com](www.deanrankine.deviantart.com)
+links:
+  - 
+    title: Itty Bitty Bunnies in Rainbow Pixie Candyland #1
+    description: "Take some time for an adventure to a magical world with two cute bunnies... two foul mouthed, drug using, butt-naked bunnies that go on adorably offensive, insultingly hilarious adventures!!!"
+    link: https://www.comixology.com/Itty-Bitty-Bunnies-in-Rainbow-Pixie-Candy-Land-1/digital-comic/49355
+    image: DIG010896_3.jpg
